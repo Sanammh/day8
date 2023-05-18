@@ -1,0 +1,21 @@
+.box {
+    width: 300px;
+    height: max-content;
+    background-color: white;
+}
+
+img {
+    width: 250px;
+    height: 350px;
+    padding-top: 0 auto;
+}
+
+.p1 {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: larger;
+
+}
+
